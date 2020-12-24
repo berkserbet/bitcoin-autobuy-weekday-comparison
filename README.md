@@ -1,3 +1,3 @@
 # bitcoin-autobuy-weekday-comparison
 
-{{nb_mb/comparison.md}}
+[Check out this html file](comparison.html)
